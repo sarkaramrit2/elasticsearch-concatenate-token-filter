@@ -1,0 +1,3 @@
+elasticsearch/concatenate/ConcatenatePlugin.class
+elasticsearch/concatenate/ConcatenateFilter.class
+elasticsearch/concatenate/ConcatenateTokenFilterFactory.class
